@@ -60,7 +60,7 @@ The proposed system was implemented in two stages:
 
 	>*this figure illustrates the proposed system of watermarking and blockchain process.*
 <p align="center">
-  <img src="https://tpc.googlesyndication.com/simgad/3248856506927570682" />
+  <img src="https://user-images.githubusercontent.com/105829473/200639902-61dd7530-d536-46b5-9473-0c04d8700980.png" />
 </p>
 
 
@@ -234,14 +234,20 @@ def get_chain():
 
 app.run(debug=True, port=3000)
 ```
-if you run the code you'll see something similar to this 
-![]()
+if you run the code you'll see something similar to this:  
+
+![test](https://user-images.githubusercontent.com/105829473/200639759-e1a837f2-5d47-436f-85b5-28c21ed94eb0.png)  
+
 now we simply run this command in terminal ```curl http://127.0.0.1:3000/chain```  
 
-***Result***:
-![]()
+***Result***:  
 
-Thank you!
+![result](https://user-images.githubusercontent.com/105829473/200639723-e84d9edb-cfa3-4a43-8c75-f65e8a76f27c.png)
+
+Thank you!!
+
+
+
 
 
 
